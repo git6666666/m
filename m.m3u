@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="巅峰" tvg-name="巅峰4" group-title="综艺",巅峰4-1下
+https://8.bf8bf.com/video/zhanzhidianfengdisiji/20250723/index.m3u8
+
 #EXTINF:-1 tvg-id="巅峰" tvg-name="巅峰4" group-title="综艺",巅峰4-1中
 https://vip.dytt-cinema.com/20250722/27714_1be8fd8b/index.m3u8
 
