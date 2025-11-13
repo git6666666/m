@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="巅峰" tvg-name="巅峰4" group-title="综艺",巅峰250722
+https://vip.dytt-cinema.com/20250722/27713_e78baa1c/index.m3u8
+
 #EXTINF:-1 tvg-id="我的西游" tvg-name="我的西游" group-title="综艺",试炼250505
 https://vip.ffzy-play10.com/20250506/40839_7b27ab2f/index.m3u8
 
