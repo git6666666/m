@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="破事" tvg-name="破事精英" group-title="剧",破事精英1
+https://vip.dytt-movie.com/20250310/5462_d63c4a5e/index.m3u8
+
 #EXTINF:-1 tvg-id="巅峰" tvg-name="巅峰4" group-title="综艺",巅峰4-3下
 https://vip.dytt-cinema.com/20250806/29314_4f132304/index.m3u8
 
